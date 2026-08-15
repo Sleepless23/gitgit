@@ -4,9 +4,10 @@
 
 print("heeeheee")
 print("Dwain Knight Gamboa")
+print("BSIT-3B")
 
-def num(Num1, Num2)
-return Num1 + Num2
+def Numbers(Num1, Num2):
+    return Num1 + Num2
 
-result = num(10, 5)
+result = Numbers(10, 5)
 print(result)
