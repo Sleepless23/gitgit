@@ -2,4 +2,10 @@
 
 #create a function that adds 2 numbers
 
-print("heeeheee")
+print ("Erik John")
+
+def add_number(num1, num2):
+    return num1 + num2
+
+    result = add_number(10.5)
+    print(result)
