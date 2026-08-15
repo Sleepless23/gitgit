@@ -14,4 +14,6 @@ def add():
     z = x + y
 
     print(f"{x} plus {y} is {z}")
-    
+
+ariel()
+add()
